@@ -1,1 +1,1 @@
-# Kursovaya2.0
+# Kursovaya
